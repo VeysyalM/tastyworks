@@ -5,3 +5,4 @@ Otherwise, users are able to update, delete and view the products as they please
 # Technologies
 Built on the Maven architecture, this application mainly relies on the Spring MVC framework. 
 JSP and bootstrap were used on the frontend, while the backend used JPA and a MySQL database.
+...........................................................................
